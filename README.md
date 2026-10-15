@@ -10,7 +10,7 @@
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Animation/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"/></a>
 <a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Animation/pulse"><img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintenance"/></a>
-<a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Animation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Modeling-Animation?style=social" alt="GitHub Stars"/></a>
+<a href="https://github.com/ishandutta2007/Awesome-3D-Modeling-Animation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-3D-Modeling-Animation?style=social" alt="GitHub_Stars"/></a>
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 <br/>
@@ -79,7 +79,7 @@ The open-source 3D graphics community provides enterprise-grade suites, geometry
 
 ### 🏆 Top Open-Source 3D Repositories (Ranked by Stars)
 
-Each repository includes an active GitHub star badge linking directly to its stargazers page, ordered in descending order of star count. ⭐
+Each repository includes an active GitHub Stars_Badge linking directly to its stargazers page, ordered in descending order of Stars_Count. ⭐
 
 1. **[FreeCAD](https://github.com/FreeCAD/FreeCAD)** [![Stars](https://img.shields.io/github/stars/FreeCAD/FreeCAD?style=social&color=white)](https://github.com/FreeCAD/FreeCAD/stargazers) 📐  
    *A multiplatform, open-source parametric 3D CAD modeler primarily designed for mechanical engineering, product design, and architectural BIM.*  
@@ -202,7 +202,7 @@ Contributions are welcome! Please follow these steps to add new platforms or ope
 1. **Fork this repository**.
 2. **Add or edit entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-3D-Modeling-Animation/README.md)**:
    - For **SaaS/Commercial platforms**: Add to the table with exact company size (market cap/valuation), specific starting price, and exact free tier/trial limits.
-   - For **Open-source projects**: Ensure it has an active GitHub repo, add the `style=social&color=white` star badge linking to `/stargazers`, and maintain descending star count order.
+   - For **Open-source projects**: Ensure it has an active GitHub repo, add the `style=social&color=white` Stars_Badge linking to `/stargazers`, and maintain descending Stars_Count order.
 3. **Submit a Pull Request** with a concise description of the addition.
 
 ---
